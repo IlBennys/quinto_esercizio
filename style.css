@@ -116,3 +116,38 @@ h4 {
   font-weight: 400;
   font-size: medium;
 }
+#quarto {
+  height: 300;
+  width: 406px;
+}
+h5 {
+  text-align: center;
+  color: #14a4ac;
+  font-weight: bolder;
+  font-size: xx-large;
+  width: 372px;
+  margin-top: 25px;
+}
+.PPCC {
+  height: 300px;
+  width: 372px;
+}
+.decimo-par {
+  color: black;
+  text-align: center;
+  font-weight: 400;
+  font-size: medium;
+  height: 32px;
+  width: 372px;
+  margin-top: 29px;
+}
+main {
+  border: solid black 3px;
+  margin-right: 0px;
+  padding-left: 0px;
+  width: 373px;
+  margin-top: 53px;
+  border-right-width: 2px;
+  height: 465px;
+  margin-left: 55px;
+}
