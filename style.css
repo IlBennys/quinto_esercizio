@@ -142,12 +142,12 @@ h5 {
   margin-top: 29px;
 }
 main {
-  border: solid black 3px;
+  border: solid black 1px;
   margin-right: 0px;
   padding-left: 0px;
   width: 373px;
   margin-top: 53px;
-  border-right-width: 2px;
+  border-right-width: 1px;
   height: 465px;
   margin-left: 55px;
 }
