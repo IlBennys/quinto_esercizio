@@ -1,0 +1,64 @@
+.prima {
+  width: 480px;
+  height: 250px;
+  background-color: black;
+}
+#primo {
+  padding-left: 78px;
+  padding-top: 75px;
+}
+#secondo {
+  background-image: url(./FE-S1-P-Esercizio/images/banner.jpg);
+  background-size: cover;
+}
+.primo-par {
+  text-align: center;
+  font-weight: bolder;
+  color: #14a4ac;
+  font-size: xx-large;
+  padding-top: 22px;
+}
+.secondo-par {
+  text-align: center;
+  font-weight: 400;
+  font-size: x-large;
+  padding-top: 17px;
+}
+.terzo-par {
+  color: white;
+  text-align: center;
+  background-color: orangered;
+  border-radius: 15%;
+  border-bottom-width: 10px;
+  margin-top: 25px;
+  padding-top: 19px;
+  height: 37px;
+  width: 171px;
+  margin-left: 166px;
+}
+h1 {
+  text-align: center;
+  color: #14a4ac;
+  font-weight: bolder;
+  font-size: xx-large;
+  margin-top: 80px;
+}
+.quarto-par {
+  text-align: center;
+  margin-top: 30px;
+  font-size: larger;
+  font-weight: 400;
+}
+h2 {
+  text-align: center;
+  color: #14a4ac;
+  font-weight: bolder;
+  font-size: xx-large;
+  margin-top: 51px;
+}
+.quinto-par {
+  text-align: center;
+  margin-top: 30px;
+  font-size: larger;
+  font-weight: 400;
+}
