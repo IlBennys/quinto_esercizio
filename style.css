@@ -3,12 +3,13 @@ body {
 }
 .prima {
   width: 480px;
-  height: 250px;
+  height: 144px;
   background-color: black;
 }
 #primo {
-  padding-left: 78px;
-  padding-top: 75px;
+  padding-left: 159px;
+  padding-top: 44px;
+  height: 55px;
 }
 #secondo {
   background-image: url(./FE-S1-P-Esercizio/images/banner.jpg);
@@ -36,12 +37,13 @@ body {
   height: 51px;
   width: 175px;
   margin-left: 160px;
+  border-bottom: transparent;
 }
 h1 {
   text-align: center;
   color: #14a4ac;
   font-weight: bolder;
-  font-size: xx-large;
+  font-size: x-large;
   margin-top: 80px;
 }
 .quarto-par {
@@ -54,7 +56,7 @@ h2 {
   text-align: center;
   color: #14a4ac;
   font-weight: bolder;
-  font-size: xx-large;
+  font-size: x-large;
   margin-top: 51px;
 }
 .quinto-par {
@@ -150,4 +152,33 @@ main {
   border-right-width: 1px;
   height: 465px;
   margin-left: 55px;
+}
+h6 {
+  text-align: center;
+  color: #14a4ac;
+  font-weight: bolder;
+  font-size: xx-large;
+  margin-top: 51px;
+}
+footer {
+  background-color: #14a4ac;
+  margin-top: 60px;
+}
+#finale {
+  color: white;
+  font-size: xx-large;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 47px;
+}
+#quasi-finale {
+  text-align: center;
+  color: white;
+  margin-top: 35px;
+  white-space: pre-line;
+}
+#terminale {
+  text-align: center;
+  color: white;
+  margin-top: 20px;
 }
