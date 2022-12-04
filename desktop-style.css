@@ -1,0 +1,83 @@
+#barra-nera {
+  width: 1920px;
+  height: 200px;
+  background-color: black;
+}
+.logo {
+  margin-left: 108px;
+  margin-top: 52px;
+}
+#immagine-prima {
+  width: 1920px;
+  height: 724px;
+  background-image: url(/FE-S1-P-Esercizio/images/banner.jpg);
+  background-size: cover;
+}
+h1 {
+  font-size: 4vh;
+  color: #14a4ac;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 226px;
+}
+.scritta-inside-pc {
+  font-size: xx-large;
+  text-align: center;
+  font-weight: normal;
+  padding-top: 32px;
+}
+button {
+  color: white;
+  background-color: orangered;
+  border-radius: 6%;
+  width: 233px;
+  height: 75px;
+  padding-left: 2px;
+  margin-left: 845px;
+  margin-top: 63px;
+  font-weight: bold;
+  font-size: x-large;
+}
+#blocco-uno {
+  width: 960px;
+  height: 400px;
+  display: inline-block;
+  margin-top: 126px;
+}
+#blocco-due {
+  width: 960px;
+  height: 400px;
+  float: right;
+  margin-top: 126px;
+}
+
+h2 {
+  color: #14a4ac;
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 21px;
+}
+.prima-cl {
+  font-size: 30px;
+  margin-bottom: 27px;
+}
+h3,
+h4,
+h5 {
+  color: #14a4ac;
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 21px;
+}
+.seconda-cl,
+.terza-cl,
+.quarta-cl {
+  font-size: 30px;
+  margin-bottom: 27px;
+}
+#foto-notb {
+  border-radius: 262px;
+  margin-left: 205px;
+  margin-top: 0px;
+  width: 613px;
+}
