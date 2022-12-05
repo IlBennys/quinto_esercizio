@@ -81,3 +81,135 @@ h5 {
   margin-top: 0px;
   width: 613px;
 }
+#barra-arancione {
+  width: 1920px;
+  height: 400px;
+  background-color: orangered;
+}
+h6 {
+  color: white;
+  text-align: center;
+  font-size: 3vh;
+  font-weight: bold;
+  padding-top: 137px;
+}
+.bianco-in-or {
+  color: white;
+  text-align: center;
+  font-size: 42px;
+  font-weight: lighter;
+}
+.nome {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 58px;
+}
+.cognome {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
+.foto-uno {
+  display: inline-block;
+  border: solid black 1px;
+  height: 470px;
+}
+#computer-uno {
+  width: 400px;
+}
+.foto-due {
+  display: inline-block;
+  border: solid black 1px;
+  height: 470px;
+}
+#computer-due {
+  margin-bottom: 7px;
+  width: 400px;
+}
+.foto-tre {
+  display: inline-block;
+  border: solid black 1px;
+  height: 470px;
+}
+#computer-tre {
+  width: 400px;
+  margin-bottom: 26px;
+}
+main {
+  margin-top: 150px;
+}
+#container-uno {
+  display: inline-block;
+  margin-left: 200px;
+}
+.scritta-uno {
+  color: #14a4ac;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+.sotto-uno {
+  text-align: center;
+  font-size: 19px;
+  margin-top: 20px;
+}
+#container-due {
+  display: inline-block;
+  margin-left: 200px;
+}
+.scritta-due {
+  color: #14a4ac;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+.sotto-due {
+  text-align: center;
+  font-size: 19px;
+  margin-top: 20px;
+}
+#container-tre {
+  display: inline-block;
+  margin-left: 200px;
+}
+.scritta-tre {
+  color: #14a4ac;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+.sotto-tre {
+  text-align: center;
+  font-size: 19px;
+  margin-top: 20px;
+}
+footer {
+  width: 1920px;
+  height: 500px;
+  background-color: #14a4ac;
+  margin-top: 200px;
+}
+.titolo-finale {
+  text-align: center;
+  color: white;
+  font-size: 112px;
+}
+#scroll-finale {
+  text-align: center;
+  color: white;
+  margin-top: 35px;
+  white-space: pre-line;
+  font-size: 38px;
+}
+#finito {
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  font-size: 28px;
+}
+.barra {
+  width: 445px;
+  border: solid;
+  color: white;
+}
